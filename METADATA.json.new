@@ -1,0 +1,32 @@
+{
+  "name": "Gilda Display",
+  "designer": "Eduardo Tunni",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Serif",
+  "size": 19154,
+  "fonts": [
+    {
+      "name": "Gilda Display",
+      "style": "normal",
+      "weight": 400,
+      "filename": "GildaDisplay-Regular.ttf",
+      "postScriptName": "GildaDisplay-Regular",
+      "fullName": "Gilda Display",
+      "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Gilda'"
+    },
+    {
+      "name": "Gilda Display",
+      "style": "normal",
+      "weight": 400,
+      "filename": "GildaDisplay-Regular-TTF.ttf",
+      "postScriptName": "GildaDisplay-Regular",
+      "fullName": "Gilda Display",
+      "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Gilda'"
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2012-10-31"
+}
